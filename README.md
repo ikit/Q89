@@ -7,24 +7,24 @@ Ce projet nostalgique, vise à recréer ces petites applications avec la technol
 Liste des applications à refaire :
 
 Jeux :
- [ ] Puissance 4 (link)
- [ ] Bataille navale (link)
- [ ] Tuyau
- [ ] Mortier
- [ ] Pendu
- [ ] PileOuFace
- [ ] Ti-Quest
- [ ] Astéroid
- [ ] Serpent
- [ ] Schoutz
- [ ] Tunnel
- [ ] Morpion (link)
- [ ] Dichotomie
+ - [ ] Puissance 4 (link)
+ - [ ] Bataille navale (link)
+ - [ ] Tuyau
+ - [ ] Mortier
+ - [ ] Pendu
+ - [ ] PileOuFace
+ - [ ] Ti-Quest
+ - [ ] Astéroid
+ - [ ] Serpent
+ - [ ] Schoutz
+ - [ ] Tunnel
+ - [ ] Morpion (link)
+ - [ ] Dichotomie
 
 
 (in)Utilitaires :
- [ ] Kbdprgm1-9
- [ ] Labyrinthe
- [ ] NombreFrançois
- [ ] Ti-Système
- [ ] Ti-Draw
+ - [ ] Kbdprgm1-9
+ - [ ] Labyrinthe
+ - [ ] NombreFrançois
+ - [ ] Ti-Système
+ - [ ] Ti-Draw
