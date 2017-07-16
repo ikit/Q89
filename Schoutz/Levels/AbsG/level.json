@@ -1,0 +1,27 @@
+{
+    "name": "AbsG",
+    "difficulty": 1,
+
+    "levels":[
+        {
+            "avatarSpeed": 1000,
+            "avatarMoveInterval": 1000,
+            "timeCountDown": -1,
+            "maxBullet": -1,
+            "currentBullet": 0,
+            "targetName": "Olive",
+            "targetSprite": "002.png",
+            "explositionSprite": "explosion"
+        },
+        {
+            "avatarSpeed": 1000,
+            "avatarMoveInterval": 1000,
+            "timeCountDown": -1,
+            "maxBullet": -1,
+            "currentBullet": 0,
+            "targetName": "Flo",
+            "targetSprite": "003.png",
+            "explositionSprite": "explosion"
+        }
+    ]
+}

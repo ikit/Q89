@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Levels/AbsG/level.json</file>
+        <file>Levels/AbsG/cover.png</file>
+        <file>Levels/AbsG/001.png</file>
+        <file>Levels/AbsG/002.png</file>
+        <file>Levels/AbsG/003.png</file>
+        <file>Levels/AbsG/004.png</file>
+        <file>Levels/AbsG/005.png</file>
+        <file>Levels/AbsG/006.png</file>
+    </qresource>
+</RCC>
