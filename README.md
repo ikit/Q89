@@ -12,7 +12,7 @@ Jeux :
  - [ ] Tuyau
  - [ ] Mortier
  - [ ] Pendu
- - [ ] PileOuFace
+ - [x] PileOuFace
  - [ ] Ti-Quest
  - [ ] Astéroid
  - [ ] Serpent
